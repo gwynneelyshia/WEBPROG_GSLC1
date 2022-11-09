@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\list;
 use Illuminate\Http\Request;
 
 class WebController extends Controller
